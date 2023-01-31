@@ -1,4 +1,4 @@
-[Survey][http://www.koutschan.de/misc/algorithms.php) from Dr. Christoph Koutschan's website 
+[Survey](http://www.koutschan.de/misc/algorithms.php) from Dr. Christoph Koutschan's website 
 
 # The Most Important Algorithms
 
